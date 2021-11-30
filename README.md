@@ -1,14 +1,14 @@
 # CSCI-596-Final-Project
-### Team member: Kai Chen, Jingxin Zhang
+### Team members: Kai Chen, Jingxin Zhang
 
 ## 1. Visualization
-We simulate Carbon Nanotube using Gromacs and jupyter.
+We simulate **Carbon Nanotube** using **Gromacs** and **jupyter**.
 
-Carbon Nanotube
+![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/cnt.gif)
 
-We also visualize the DNA.
+We also visualize **DNA**.
 
-DNA
+![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/dna.gif)
 
 
 ## 2. Prediction
