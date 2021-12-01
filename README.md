@@ -14,7 +14,7 @@ We also simulate **DNA**.
 ## 2. Prediction
 
 Use Carbon Nanotubes Dataset from Kaggle.
-This dataset contains 10721 initial and calculated atomic coordinates of carbon nanotubes (CNTs)
+This dataset contains 10721 initial and calculated atomic coordinates of the carbon nanotubes (CNTs)
 
 **Data Analysis:**
 Sample:
