@@ -32,7 +32,7 @@ We would use neural network and some other machine learning models to predict Ca
 
 ## 3. Performance Profile
 
-Our team would use **cProfile** to analysis python program and uses **SnakeViz** and **VizTracer** to visualize the logfile.  
+Our team would use **cProfile** to analyze python program and uses **SnakeViz** and **VizTracer** to visualize the logfile.  
 
 SnakeViz example:  
 ![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/snakeviz_example.png)  
