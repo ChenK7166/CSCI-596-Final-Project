@@ -32,5 +32,13 @@ We would use neural network and some other machine learning models to predict Ca
 
 ## 3. Performance Profile
 
-Our team would use cProfile to analysis python program and uses nakeviz and viztracer to visualize the result.
+Our team would use **cProfile** to analysis python program and uses **nakeviz** and **viztracer** to visualize the result.
+
+
+## 4. Reference
+Kaggle: <https://www.kaggle.com/inancigdem/carbon-nanotubes>
+cProfile: <https://docs.python.org/3/library/profile.html>
+nakeviz: <https://jiffyclub.github.io/snakeviz/>
+viztracer: <https://viztracer.readthedocs.io/en/latest/basic_usage.html>
+
 
