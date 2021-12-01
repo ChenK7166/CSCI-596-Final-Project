@@ -23,7 +23,7 @@ Sample:
 Data Visualization using **plotly**:
 ![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/data_vis_ex.gif)
 
-Visualize specific subset:
+Visualize specific subset (n=11, m=2):
 ![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/data_vis_11_2_ex.gif)
 
 We would use neural network, Linear Regression and some other machine learning models to predict Calculated atomic coordinates(u',v',w'), and compare accuracy.
