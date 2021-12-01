@@ -2,7 +2,7 @@
 ### Team members: Kai Chen, Jingxin Zhang
 
 ## 1. Visualization
-We simulate **Carbon Nanotube** using **Gromacs** and **jupyter**.
+We simulate **Carbon Nanotube** using **Gromacs** and **jupyter notebook**.
 
 ![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/cnt.gif)
 
