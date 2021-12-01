@@ -38,7 +38,7 @@ SnakeViz example:
 ![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/snakeviz_example.png)  
 
 VizTracer example:  
-![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/viztracer_example.png)  
+![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/Viztracer_example.png)  
 
 ## 4. Reference
 Kaggle: <https://www.kaggle.com/inancigdem/carbon-nanotubes>
