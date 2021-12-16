@@ -34,7 +34,7 @@ This dataset contains 10721 initial and calculated atomic coordinates of the car
 **Prediction:**  
 We use neural network and linear regression models to predict Calculated atomic coordinates(u',v',w') based on initial coordinates(u, v, w), and compare their accuracy. Linear regression uses the default parameters. Neural network set Learning rate to 0.0012, use Mean Squared Error as Loss function, set Adam as optimizer, use three hidden layers and 150 epochs. The change of loss with iteration is shown in figure 6.
 
-![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/cnt_sample.JPG)
+![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/loss_over_iteration.png)
 <center>Figure 6 Loss over iteration</center>
 
 **Result:**
