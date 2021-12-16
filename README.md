@@ -27,8 +27,14 @@ This dataset contains 10721 initial and calculated atomic coordinates of the car
 - Visualize specific subset (n=11, m=2):  
 ![Alt Text](https://github.com/ChenK7166/CSCI-596-Final-Project/blob/main/data_vis_11_2_ex.gif)
 
-We would use neural network and some other machine learning models to predict Calculated atomic coordinates(u',v',w'), and compare their accuracy.
+**Prediction:**  
+We use neural network and linear regression models to predict Calculated atomic coordinates(u',v',w') based on initial coordinates(u, v, w), and compare their accuracy.
 
+
+|                   | R-Squared | Mean Squared Error | Mean Absolute Error | train time | predict time |
+|-------------------|-----------|--------------------|---------------------|------------|--------------|
+| Linear Regression | 0.9995    | 4.4004             | 0.0019              | 0.0304     | 0.0005       |
+| Neural network    | 0.9992    | 6.1290             | 0.0041              | 144.1802   | 0.2680       |
 
 ## 3. Performance Profile
 
